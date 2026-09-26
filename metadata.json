@@ -1,0 +1,6 @@
+{
+  "name": "OmniHub AI",
+  "description": "Unified adaptive AI app with trend pulse, dynamic workspace tools, creative suite, and minigames.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
